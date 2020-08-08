@@ -1,2 +1,3 @@
 # coursera-assignments
-Coursera repository- Solution container for all assignments
+Coursera: HTML, CSS and Javascript for Web Developers
+Solution container for fullstack-course4 assignments
