@@ -1,4 +1,3 @@
 # coursera-assignments
-Coursera: HTML, CSS and Javascript for Web Developers
+This repository is for the solutions of the assignments of the course HTML, CSS and Javascript for Web Developers in Coursera
 
-Solution container for fullstack-course4 assignments
