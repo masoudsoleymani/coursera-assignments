@@ -16,3 +16,8 @@ Description : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/
 Module #4 Coding Assignment JS
 Description : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md
 - Solution Link : https://masoudsoleymani.github.io/coursera-assignments-course4/module4-solution/index.html
+
+#
+Module #5 Coding Assignment JS
+Description : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md
+- Solution Link : https://masoudsoleymani.github.io/coursera-assignments-course4/module5-solution/index.html
